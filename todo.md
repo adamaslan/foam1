@@ -7,7 +7,10 @@
   - [x] You can also select multiple lines and mark them all at once!
 - [x] When you press enter at the end of a line, it adds a new todo item on the next line
 - [ ] Learn Foam
-- [ ] link it with github
+- [x] link it with github
+- [ ] figure out graph stuff
+- [ ] connect with people
+- [ ] connect with discord foam
 - [ ] use it to organize thoughts per project
 - [ ] use it to figure out brain overall
 - [ ] make a push to git hub!
