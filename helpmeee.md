@@ -2,3 +2,10 @@
 #git
 #foam
 #thisishard
+[[Goals]]
+#learnbetter
+#improveworkflow
+#gainperspective
+#process
+#progess
+#recognition
