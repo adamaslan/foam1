@@ -9,3 +9,10 @@
 #process
 #progess
 #recognition
+[[2020-11-03]]
+#makeflashcards
+#integratewithgitmore
+[[2020-11-02]]
+#outside
+#notebook
+#notes
