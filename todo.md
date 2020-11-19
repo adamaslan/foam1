@@ -15,3 +15,6 @@
 - [ ] use it to figure out brain overall
 - [ ] make a push to git hub!
 - [ ] This, and more is provided by the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin by [Yu Zhang](https://github.com/yzhang-gh)
+- [ ] More Github workflow stuff!
+- [ ]
+- [ ]
