@@ -1,0 +1,101 @@
+{
+  "main": {
+    "id": "9aee9ab50b4dab9b",
+    "type": "split",
+    "children": [
+      {
+        "id": "94678b0f736b314b",
+        "type": "leaf",
+        "dimension": 50,
+        "active": true,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "helpmeee.md",
+            "mode": "source"
+          }
+        }
+      },
+      {
+        "id": "46b577acec787fd6",
+        "type": "leaf",
+        "dimension": 50,
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "gc-links1.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "02fcc6ad3a465295",
+    "type": "split",
+    "children": [
+      {
+        "id": "b299c5944b04f204",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b8ab58ab5871de8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "d2efd58bf37fc286",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": ""
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e00869510a78ce70",
+    "type": "split",
+    "children": [
+      {
+        "id": "377921bfd50eb337",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c005ba7059b6cba1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "helpmeee.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 316
+  },
+  "lastOpenFiles": [
+    "helpmeee.md",
+    "foam-tips.md",
+    "gc-links1.md",
+    "Goals.md",
+    "todo.md",
+    "reactlinks1.md",
+    "helpmee.md",
+    "Typescript.md",
+    "Untitled.md"
+  ]
+}
