@@ -17,5 +17,7 @@
 - [ ] Learn [[react]] better
 - [ ] This, and more is provided by the [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one) plugin by [Yu Zhang](https://github.com/yzhang-gh)
 - [ ] More Github workflow stuff!
-- [ ]
-- [ ]
+- [ ]work on [[code.adamaslan]]
+- [ ] [[link]] #color #css [[css]] 
+- [ ] fix [[footer]]
+- [ ] research #bestpractices #footers
