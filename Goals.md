@@ -7,3 +7,8 @@ change careers
 stop freaking out
 
 etc
+
+but lets focus on #Shortterm #goals
+
+{{react}} #learn comprehensively
+{{typescript}} finish handbook
