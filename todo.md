@@ -20,4 +20,4 @@
 - [ ]work on [[code.adamaslan]]
 - [ ] [[link]] #color #css [[css]] 
 - [ ] fix [[footer]]
-- [ ] research #bestpractices #footers
+- [ ] research #bestpractices #footers      
